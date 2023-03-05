@@ -1,4 +1,4 @@
-Koha installation processes
+# Koha installation processes
 
 ▪ Koha community 
 
@@ -78,7 +78,8 @@ Execute these of three Command by order to confirm apache
 
  ``sudo service apache2 restart``
 
-▪ To get master Password: (By getting passwd to login koha 
-adminstration)
+▪ To get master Password:
 
  ``sudo koha-passwd library``
+
+- Master Password is used to login to the KOHA administration and work on the Webinstaller and Onboarding tools. 
